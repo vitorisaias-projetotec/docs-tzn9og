@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-a3blls.cingbet138.site/sitemap.xml
